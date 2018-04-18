@@ -1,0 +1,1069 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		15D8A24A15108ACB00BC90A1 /* Acute abdomen-pain.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A20015108ACB00BC90A1 /* Acute abdomen-pain.png */; };
+		15D8A24B15108ACB00BC90A1 /* Acute vision loss.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A20115108ACB00BC90A1 /* Acute vision loss.png */; };
+		15D8A24C15108ACB00BC90A1 /* Amenorrhoea.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A20215108ACB00BC90A1 /* Amenorrhoea.png */; };
+		15D8A24D15108ACB00BC90A1 /* Ankle pain.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A20315108ACB00BC90A1 /* Ankle pain.png */; };
+		15D8A24E15108ACB00BC90A1 /* Back PAin.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A20415108ACB00BC90A1 /* Back PAin.png */; };
+		15D8A24F15108ACB00BC90A1 /* Back1.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A20515108ACB00BC90A1 /* Back1.png */; };
+		15D8A25015108ACB00BC90A1 /* box-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A20615108ACB00BC90A1 /* box-1.png */; };
+		15D8A25115108ACB00BC90A1 /* Burning Micturition(urination).png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A20715108ACB00BC90A1 /* Burning Micturition(urination).png */; };
+		15D8A25215108ACB00BC90A1 /* Buy-next.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A20815108ACB00BC90A1 /* Buy-next.png */; };
+		15D8A25315108ACB00BC90A1 /* Chronic cough.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A20915108ACB00BC90A1 /* Chronic cough.png */; };
+		15D8A25415108ACB00BC90A1 /* Comlex_60_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A20A15108ACB00BC90A1 /* Comlex_60_icon.png */; };
+		15D8A25515108ACB00BC90A1 /* Constipation.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A20B15108ACB00BC90A1 /* Constipation.png */; };
+		15D8A25615108ACB00BC90A1 /* Diabetes follow up.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A20C15108ACB00BC90A1 /* Diabetes follow up.png */; };
+		15D8A25715108ACB00BC90A1 /* Diarrhea in child.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A20D15108ACB00BC90A1 /* Diarrhea in child.png */; };
+		15D8A25815108ACB00BC90A1 /* Diarrhea in male.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A20E15108ACB00BC90A1 /* Diarrhea in male.png */; };
+		15D8A25915108ACB00BC90A1 /* Difficulty in urination in elderly male.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A20F15108ACB00BC90A1 /* Difficulty in urination in elderly male.png */; };
+		15D8A25A15108ACB00BC90A1 /* Dizziness in male.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A21015108ACB00BC90A1 /* Dizziness in male.png */; };
+		15D8A25B15108ACB00BC90A1 /* Domestic violence.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A21115108ACB00BC90A1 /* Domestic violence.png */; };
+		15D8A25C15108ACB00BC90A1 /* Dyspareunia.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A21215108ACB00BC90A1 /* Dyspareunia.png */; };
+		15D8A25D15108ACB00BC90A1 /* Dysphagia.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A21315108ACB00BC90A1 /* Dysphagia.png */; };
+		15D8A25E15108ACB00BC90A1 /* Elbow pain.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A21415108ACB00BC90A1 /* Elbow pain.png */; };
+		15D8A25F15108ACB00BC90A1 /* Epigastric pain.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A21515108ACB00BC90A1 /* Epigastric pain.png */; };
+		15D8A26015108ACB00BC90A1 /* Epistaxis.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A21615108ACB00BC90A1 /* Epistaxis.png */; };
+		15D8A26115108ACB00BC90A1 /* Erectile dysfunction.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A21715108ACB00BC90A1 /* Erectile dysfunction.png */; };
+		15D8A26315108ACB00BC90A1 /* Fever in new born.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A21915108ACB00BC90A1 /* Fever in new born.png */; };
+		15D8A26415108ACB00BC90A1 /* First antenatal visit.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A21A15108ACB00BC90A1 /* First antenatal visit.png */; };
+		15D8A26515108ACB00BC90A1 /* Free.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A21B15108ACB00BC90A1 /* Free.png */; };
+		15D8A26615108ACB00BC90A1 /* Frequent Falls.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A21C15108ACB00BC90A1 /* Frequent Falls.png */; };
+		15D8A26715108ACB00BC90A1 /* Headache – GCA.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A21D15108ACB00BC90A1 /* Headache – GCA.png */; };
+		15D8A26815108ACB00BC90A1 /* Headache – Meningitis.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A21E15108ACB00BC90A1 /* Headache – Meningitis.png */; };
+		15D8A26915108ACB00BC90A1 /* Headache – migraine.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A21F15108ACB00BC90A1 /* Headache – migraine.png */; };
+		15D8A26A15108ACB00BC90A1 /* Headache- SAH.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A22015108ACB00BC90A1 /* Headache- SAH.png */; };
+		15D8A26B15108ACB00BC90A1 /* Hearing loss.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A22115108ACB00BC90A1 /* Hearing loss.png */; };
+		15D8A26C15108ACB00BC90A1 /* Heavy menstrual bleeding.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A22215108ACB00BC90A1 /* Heavy menstrual bleeding.png */; };
+		15D8A26D15108ACB00BC90A1 /* Heel pain.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A22315108ACB00BC90A1 /* Heel pain.png */; };
+		15D8A26E15108ACB00BC90A1 /* Hematemesis.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A22415108ACB00BC90A1 /* Hematemesis.png */; };
+		15D8A26F15108ACB00BC90A1 /* Hematuria.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A22515108ACB00BC90A1 /* Hematuria.png */; };
+		15D8A27015108ACB00BC90A1 /* Hemoptysis.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A22615108ACB00BC90A1 /* Hemoptysis.png */; };
+		15D8A27115108ACB00BC90A1 /* Hip pain.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A22715108ACB00BC90A1 /* Hip pain.png */; };
+		15D8A27215108ACB00BC90A1 /* Home37.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A22815108ACB00BC90A1 /* Home37.png */; };
+		15D8A27315108ACB00BC90A1 /* Hot flushes in elderly female.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A22915108ACB00BC90A1 /* Hot flushes in elderly female.png */; };
+		15D8A27415108ACB00BC90A1 /* Hypertansion.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A22A15108ACB00BC90A1 /* Hypertansion.png */; };
+		15D8A27515108ACB00BC90A1 /* Insomnia.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A22B15108ACB00BC90A1 /* Insomnia.png */; };
+		15D8A27615108ACB00BC90A1 /* Insurance check up.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A22C15108ACB00BC90A1 /* Insurance check up.png */; };
+		15D8A27715108ACB00BC90A1 /* Jaundice.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A22D15108ACB00BC90A1 /* Jaundice.png */; };
+		15D8A27815108ACB00BC90A1 /* Joint Pain.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A22E15108ACB00BC90A1 /* Joint Pain.png */; };
+		15D8A27915108ACB00BC90A1 /* Knee PAin.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A22F15108ACB00BC90A1 /* Knee PAin.png */; };
+		15D8A27A15108ACB00BC90A1 /* Loss of consciousness.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A23015108ACB00BC90A1 /* Loss of consciousness.png */; };
+		15D8A27B15108ACB00BC90A1 /* Lower GI bleeding.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A23115108ACB00BC90A1 /* Lower GI bleeding.png */; };
+		15D8A27C15108ACB00BC90A1 /* Melena.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A23215108ACB00BC90A1 /* Melena.png */; };
+		15D8A27D15108ACB00BC90A1 /* Memory Loss.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A23315108ACB00BC90A1 /* Memory Loss.png */; };
+		15D8A27E15108ACB00BC90A1 /* Mian_back.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A23415108ACB00BC90A1 /* Mian_back.jpg */; };
+		15D8A27F15108ACB00BC90A1 /* Nausea and vomiting.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A23515108ACB00BC90A1 /* Nausea and vomiting.png */; };
+		15D8A28015108ACB00BC90A1 /* Numbness and weakness.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A23615108ACB00BC90A1 /* Numbness and weakness.png */; };
+		15D8A28115108ACB00BC90A1 /* numbness_weakness_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A23715108ACB00BC90A1 /* numbness_weakness_icon.png */; };
+		15D8A28215108ACB00BC90A1 /* Pain seeking behavior.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A23815108ACB00BC90A1 /* Pain seeking behavior.png */; };
+		15D8A28315108ACB00BC90A1 /* Palpitations.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A23915108ACB00BC90A1 /* Palpitations.png */; };
+		15D8A28415108ACB00BC90A1 /* sad mood and fatigue.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A23A15108ACB00BC90A1 /* sad mood and fatigue.png */; };
+		15D8A28515108ACB00BC90A1 /* Screen Shot 2011-11-15 at 12.41.37 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A23B15108ACB00BC90A1 /* Screen Shot 2011-11-15 at 12.41.37 PM.png */; };
+		15D8A28615108ACB00BC90A1 /* Shortness of breath.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A23C15108ACB00BC90A1 /* Shortness of breath.png */; };
+		15D8A28715108ACB00BC90A1 /* Shoulder pain.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A23D15108ACB00BC90A1 /* Shoulder pain.png */; };
+		15D8A28815108ACB00BC90A1 /* Sickle cell disease- acute pain.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A23E15108ACB00BC90A1 /* Sickle cell disease- acute pain.png */; };
+		15D8A28915108ACB00BC90A1 /* Sinusitis.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A23F15108ACB00BC90A1 /* Sinusitis.png */; };
+		15D8A28A15108ACB00BC90A1 /* Sore throat.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A24015108ACB00BC90A1 /* Sore throat.png */; };
+		15D8A28B15108ACB00BC90A1 /* Standardize.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A24115108ACB00BC90A1 /* Standardize.png */; };
+		15D8A28C15108ACB00BC90A1 /* Vaginal discharge.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A24215108ACB00BC90A1 /* Vaginal discharge.png */; };
+		15D8A28D15108ACB00BC90A1 /* Vomiting in new born.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A24315108ACB00BC90A1 /* Vomiting in new born.png */; };
+		15D8A28E15108ACB00BC90A1 /* Weight gain.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A24415108ACB00BC90A1 /* Weight gain.png */; };
+		15D8A28F15108ACB00BC90A1 /* Weight loss.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A24515108ACB00BC90A1 /* Weight loss.png */; };
+		15D8A29015108ACB00BC90A1 /* welcomeback.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A24615108ACB00BC90A1 /* welcomeback.jpg */; };
+		15D8A29115108ACB00BC90A1 /* WiFi1.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A24715108ACB00BC90A1 /* WiFi1.png */; };
+		15D8A29215108ACB00BC90A1 /* Wrist pain.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A24815108ACB00BC90A1 /* Wrist pain.png */; };
+		15D8A29315108ACB00BC90A1 /* wrist_pain_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A24915108ACB00BC90A1 /* wrist_pain_icon.png */; };
+		15D8A2D415108AE600BC90A1 /* Acute_abdomen_39_year_old_female_ER.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A29615108AE600BC90A1 /* Acute_abdomen_39_year_old_female_ER.pdf */; };
+		15D8A2D515108AE600BC90A1 /* Amenorrhea_17_year_old_female_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A29715108AE600BC90A1 /* Amenorrhea_17_year_old_female_clinic.pdf */; };
+		15D8A2D615108AE600BC90A1 /* Ankle_pain_30_year_old_male_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A29815108AE600BC90A1 /* Ankle_pain_30_year_old_male_clinic.pdf */; };
+		15D8A2D715108AE600BC90A1 /* Back_pain.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A29915108AE600BC90A1 /* Back_pain.pdf */; };
+		15D8A2D815108AE600BC90A1 /* Bloody_Urine_62_year_old_male_ER.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A29A15108AE600BC90A1 /* Bloody_Urine_62_year_old_male_ER.pdf */; };
+		15D8A2D915108AE600BC90A1 /* BPH.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A29B15108AE600BC90A1 /* BPH.pdf */; };
+		15D8A2DA15108AE600BC90A1 /* Burning_micturition_65_year_old_woman_hospital.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A29C15108AE600BC90A1 /* Burning_micturition_65_year_old_woman_hospital.pdf */; };
+		15D8A2DB15108AE600BC90A1 /* Chronic_cough_33_year_old_mane_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A29D15108AE600BC90A1 /* Chronic_cough_33_year_old_mane_clinic.pdf */; };
+		15D8A2DC15108AE600BC90A1 /* Common_tips_for_CS.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A29E15108AE600BC90A1 /* Common_tips_for_CS.pdf */; };
+		15D8A2DD15108AE600BC90A1 /* Constipation_73_year_old_woman_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A29F15108AE600BC90A1 /* Constipation_73_year_old_woman_clinic.pdf */; };
+		15D8A2DE15108AE600BC90A1 /* Diabetes_Mellitus_Follow_up_66_year_old_Man_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2A015108AE600BC90A1 /* Diabetes_Mellitus_Follow_up_66_year_old_Man_clinic.pdf */; };
+		15D8A2DF15108AE600BC90A1 /* Diarrhea_1_year_old_child_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2A115108AE600BC90A1 /* Diarrhea_1_year_old_child_clinic.pdf */; };
+		15D8A2E015108AE600BC90A1 /* Diarrhea_32_year_old_male_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2A215108AE600BC90A1 /* Diarrhea_32_year_old_male_clinic.pdf */; };
+		15D8A2E115108AE600BC90A1 /* Dizziness_45_year_old_man_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2A315108AE600BC90A1 /* Dizziness_45_year_old_man_clinic.pdf */; };
+		15D8A2E215108AE600BC90A1 /* Domestic_abuse_40_year_old_Lady_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2A415108AE600BC90A1 /* Domestic_abuse_40_year_old_Lady_clinic.pdf */; };
+		15D8A2E315108AE600BC90A1 /* Dyspareunia_24_year_old_female_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2A515108AE600BC90A1 /* Dyspareunia_24_year_old_female_clinic.pdf */; };
+		15D8A2E415108AE600BC90A1 /* Dysphagia_65_year_old_male_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2A615108AE600BC90A1 /* Dysphagia_65_year_old_male_clinic.pdf */; };
+		15D8A2E515108AE600BC90A1 /* Elbow_pain_56_year_old_male_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2A715108AE600BC90A1 /* Elbow_pain_56_year_old_male_clinic.pdf */; };
+		15D8A2E615108AE600BC90A1 /* Epigastric-pain_53_year_old_male_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2A815108AE600BC90A1 /* Epigastric-pain_53_year_old_male_clinic.pdf */; };
+		15D8A2E715108AE600BC90A1 /* Erectile_dysfunction_62_year_old_male_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2A915108AE600BC90A1 /* Erectile_dysfunction_62_year_old_male_clinic.pdf */; };
+		15D8A2E815108AE600BC90A1 /* Fever_in_child_telephonic_2_year_old_child_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2AA15108AE600BC90A1 /* Fever_in_child_telephonic_2_year_old_child_clinic.pdf */; };
+		15D8A2E915108AE600BC90A1 /* First_antenatal_visit_26_year_old_female_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2AB15108AE600BC90A1 /* First_antenatal_visit_26_year_old_female_clinic.pdf */; };
+		15D8A2EA15108AE600BC90A1 /* Frequent_fall_72_year_old_male_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2AC15108AE600BC90A1 /* Frequent_fall_72_year_old_male_clinic.pdf */; };
+		15D8A2EB15108AE600BC90A1 /* Headache_GCA__77_year_old_female_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2AD15108AE600BC90A1 /* Headache_GCA__77_year_old_female_clinic.pdf */; };
+		15D8A2EC15108AE600BC90A1 /* Headache_Meningitis__32_year_old_male_ER.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2AE15108AE600BC90A1 /* Headache_Meningitis__32_year_old_male_ER.pdf */; };
+		15D8A2ED15108AE600BC90A1 /* Headache_Migraine__22_year_old_female_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2AF15108AE600BC90A1 /* Headache_Migraine__22_year_old_female_clinic.pdf */; };
+		15D8A2EE15108AE600BC90A1 /* Headache_SAH__32_year_old_male_ER.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2B015108AE600BC90A1 /* Headache_SAH__32_year_old_male_ER.pdf */; };
+		15D8A2EF15108AE600BC90A1 /* Hearing_loss__62_year_old_male_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2B115108AE600BC90A1 /* Hearing_loss__62_year_old_male_clinic.pdf */; };
+		15D8A2F015108AE600BC90A1 /* Heavy_menstrual_bleeding_54_year_old_female_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2B215108AE600BC90A1 /* Heavy_menstrual_bleeding_54_year_old_female_clinic.pdf */; };
+		15D8A2F115108AE600BC90A1 /* Heel_pain_32_year_old_female_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2B315108AE600BC90A1 /* Heel_pain_32_year_old_female_clinic.pdf */; };
+		15D8A2F215108AE600BC90A1 /* Hemetemesis__46_year_old_male_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2B415108AE600BC90A1 /* Hemetemesis__46_year_old_male_clinic.pdf */; };
+		15D8A2F315108AE600BC90A1 /* Hemoptysis_60_year_old_man_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2B515108AE600BC90A1 /* Hemoptysis_60_year_old_man_clinic.pdf */; };
+		15D8A2F415108AE600BC90A1 /* Hip_pain_76_year_old_female_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2B615108AE600BC90A1 /* Hip_pain_76_year_old_female_clinic.pdf */; };
+		15D8A2F515108AE600BC90A1 /* hot_flashes.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2B715108AE600BC90A1 /* hot_flashes.pdf */; };
+		15D8A2F615108AE600BC90A1 /* Hypertension_follow-up__45_year_old_female_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2B815108AE600BC90A1 /* Hypertension_follow-up__45_year_old_female_clinic.pdf */; };
+		15D8A2F715108AE600BC90A1 /* Insomnia__72_year_old_male_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2B915108AE600BC90A1 /* Insomnia__72_year_old_male_clinic.pdf */; };
+		15D8A2F815108AE600BC90A1 /* Insurance_Checkup_52_year_old_male_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2BA15108AE600BC90A1 /* Insurance_Checkup_52_year_old_male_clinic.pdf */; };
+		15D8A2F915108AE600BC90A1 /* Jaundice__56_year_old_male_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2BB15108AE600BC90A1 /* Jaundice__56_year_old_male_clinic.pdf */; };
+		15D8A2FA15108AE600BC90A1 /* Joint_pain__60_year_old_female_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2BC15108AE600BC90A1 /* Joint_pain__60_year_old_female_clinic.pdf */; };
+		15D8A2FB15108AE600BC90A1 /* Knee_pain__65_year_old_female_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2BD15108AE600BC90A1 /* Knee_pain__65_year_old_female_clinic.pdf */; };
+		15D8A2FC15108AE600BC90A1 /* LGIB__45_year_old_male_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2BE15108AE600BC90A1 /* LGIB__45_year_old_male_clinic.pdf */; };
+		15D8A2FD15108AE600BC90A1 /* LOC_54_year_old_male_ER.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2BF15108AE600BC90A1 /* LOC_54_year_old_male_ER.pdf */; };
+		15D8A2FE15108AE600BC90A1 /* Lower_GI_bleeding_46_year_old_male_ER.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2C015108AE600BC90A1 /* Lower_GI_bleeding_46_year_old_male_ER.pdf */; };
+		15D8A2FF15108AE600BC90A1 /* Memory_loss_87_year_old_female_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2C115108AE600BC90A1 /* Memory_loss_87_year_old_female_clinic.pdf */; };
+		15D8A30015108AE600BC90A1 /* Nausea_vomiting_32_year_old_female_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2C215108AE600BC90A1 /* Nausea_vomiting_32_year_old_female_clinic.pdf */; };
+		15D8A30115108AE600BC90A1 /* Nose-bleed_4_year_old_boy_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2C315108AE600BC90A1 /* Nose-bleed_4_year_old_boy_clinic.pdf */; };
+		15D8A30215108AE600BC90A1 /* Numbness_weakness_60_year_old_female_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2C415108AE600BC90A1 /* Numbness_weakness_60_year_old_female_clinic.pdf */; };
+		15D8A30315108AE600BC90A1 /* Pain_seeking_behavior_45_year_old_male_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2C515108AE600BC90A1 /* Pain_seeking_behavior_45_year_old_male_clinic.pdf */; };
+		15D8A30415108AE600BC90A1 /* Palpitations_56_year_old_female_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2C615108AE600BC90A1 /* Palpitations_56_year_old_female_clinic.pdf */; };
+		15D8A30515108AE600BC90A1 /* Sad_mood_and_fatigue_32_year_old_female_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2C715108AE600BC90A1 /* Sad_mood_and_fatigue_32_year_old_female_clinic.pdf */; };
+		15D8A30615108AE600BC90A1 /* Shortness_of_breath_56_year_old_female_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2C815108AE600BC90A1 /* Shortness_of_breath_56_year_old_female_clinic.pdf */; };
+		15D8A30715108AE600BC90A1 /* Shoulder_pain_46_year_old_female_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2C915108AE600BC90A1 /* Shoulder_pain_46_year_old_female_clinic.pdf */; };
+		15D8A30815108AE600BC90A1 /* Sickle_cell_disease_26_year_old_male_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2CA15108AE600BC90A1 /* Sickle_cell_disease_26_year_old_male_clinic.pdf */; };
+		15D8A30915108AE600BC90A1 /* Sinusitis_33_year_old_male_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2CB15108AE600BC90A1 /* Sinusitis_33_year_old_male_clinic.pdf */; };
+		15D8A30A15108AE600BC90A1 /* Sore_throat_20_year_old_male_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2CC15108AE600BC90A1 /* Sore_throat_20_year_old_male_clinic.pdf */; };
+		15D8A30B15108AE600BC90A1 /* Standardized_patient_Check_lists.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2CD15108AE600BC90A1 /* Standardized_patient_Check_lists.pdf */; };
+		15D8A30C15108AE600BC90A1 /* Sudden_vision_loss_65_year_old_male_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2CE15108AE600BC90A1 /* Sudden_vision_loss_65_year_old_male_clinic.pdf */; };
+		15D8A30D15108AE600BC90A1 /* Vaginal_discharge_34_year_old_female_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2CF15108AE600BC90A1 /* Vaginal_discharge_34_year_old_female_clinic.pdf */; };
+		15D8A30E15108AE600BC90A1 /* Vomiting_2_month_old__child_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2D015108AE600BC90A1 /* Vomiting_2_month_old__child_clinic.pdf */; };
+		15D8A30F15108AE600BC90A1 /* Weight_gain_45_year_old_male_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2D115108AE600BC90A1 /* Weight_gain_45_year_old_male_clinic.pdf */; };
+		15D8A31015108AE600BC90A1 /* Weight_loss_46_year_old_female_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2D215108AE600BC90A1 /* Weight_loss_46_year_old_female_clinic.pdf */; };
+		15D8A31115108AE600BC90A1 /* Wrist_pain_34_year_old_female_clinic.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A2D315108AE600BC90A1 /* Wrist_pain_34_year_old_female_clinic.pdf */; };
+		15D8A31315108B1F00BC90A1 /* COMMON_tips.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A31215108B1F00BC90A1 /* COMMON_tips.png */; };
+		15D8A31515108B2500BC90A1 /* shelves2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A31415108B2500BC90A1 /* shelves2.jpg */; };
+		15D8A31715108B7B00BC90A1 /* Back.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A31615108B7B00BC90A1 /* Back.png */; };
+		15D8A31915108B8A00BC90A1 /* Erectile_dysfunction_62_year_old_male_clinic_comlex.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A31815108B8A00BC90A1 /* Erectile_dysfunction_62_year_old_male_clinic_comlex.pdf */; };
+		15D8A3201510926100BC90A1 /* validatereceipt.m in Sources */ = {isa = PBXBuildFile; fileRef = 15D8A31F1510926100BC90A1 /* validatereceipt.m */; };
+		15D8A3221510944B00BC90A1 /* icon.icns in Resources */ = {isa = PBXBuildFile; fileRef = 15D8A3211510944B00BC90A1 /* icon.icns */; };
+		15E93BE2151082500066A48C /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 15E93BE1151082500066A48C /* Cocoa.framework */; };
+		15E93BEC151082500066A48C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 15E93BEA151082500066A48C /* InfoPlist.strings */; };
+		15E93BEE151082500066A48C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 15E93BED151082500066A48C /* main.m */; };
+		15E93BF2151082500066A48C /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 15E93BF0151082500066A48C /* Credits.rtf */; };
+		15E93BF5151082500066A48C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 15E93BF4151082500066A48C /* AppDelegate.m */; };
+		15E93BF8151082500066A48C /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 15E93BF6151082500066A48C /* MainMenu.xib */; };
+		15E93BFB151082500066A48C /* COMLEX_LEVEL_2_PE.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 15E93BF9151082500066A48C /* COMLEX_LEVEL_2_PE.xcdatamodeld */; };
+		15E93C07151082A70066A48C /* Erectile_dysfunction_62_year_old_male_clinic_comlex.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 15E93C06151082A70066A48C /* Erectile_dysfunction_62_year_old_male_clinic_comlex.pdf */; };
+		15E93C18151082CF0066A48C /* FirstWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = 15E93C09151082CF0066A48C /* FirstWindowController.m */; };
+		15E93C19151082CF0066A48C /* FirstWindowController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 15E93C0A151082CF0066A48C /* FirstWindowController.xib */; };
+		15E93C1A151082CF0066A48C /* IAPforCases.m in Sources */ = {isa = PBXBuildFile; fileRef = 15E93C0C151082CF0066A48C /* IAPforCases.m */; };
+		15E93C1B151082CF0066A48C /* IAPforCases.xib in Resources */ = {isa = PBXBuildFile; fileRef = 15E93C0D151082CF0066A48C /* IAPforCases.xib */; };
+		15E93C1C151082CF0066A48C /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 15E93C0F151082CF0066A48C /* Reachability.m */; };
+		15E93C1D151082CF0066A48C /* SampleWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = 15E93C11151082CF0066A48C /* SampleWindowController.m */; };
+		15E93C1E151082CF0066A48C /* SampleWindowController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 15E93C12151082CF0066A48C /* SampleWindowController.xib */; };
+		15E93C20151082CF0066A48C /* WelcomeWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 15E93C16151082CF0066A48C /* WelcomeWindow.m */; };
+		15E93C21151082CF0066A48C /* WelcomeWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 15E93C17151082CF0066A48C /* WelcomeWindow.xib */; };
+		15E93C23151083360066A48C /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 15E93C22151083360066A48C /* StoreKit.framework */; };
+		15E93C25151083430066A48C /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 15E93C24151083430066A48C /* Security.framework */; };
+		15E93C271510834E0066A48C /* IOKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 15E93C261510834E0066A48C /* IOKit.framework */; };
+		15E93C29151083560066A48C /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 15E93C28151083560066A48C /* WebKit.framework */; };
+		15E93C2B151083610066A48C /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 15E93C2A151083610066A48C /* SystemConfiguration.framework */; };
+		15E93C2D1510836C0066A48C /* Quartz.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 15E93C2C1510836C0066A48C /* Quartz.framework */; };
+		15E93C2F1510837D0066A48C /* libcrypto.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 15E93C2E1510837D0066A48C /* libcrypto.dylib */; };
+		15E93C391510840B0066A48C /* DetailWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 15E93C311510840B0066A48C /* DetailWindow.m */; };
+		15E93C3A1510840B0066A48C /* DetailWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 15E93C321510840B0066A48C /* DetailWindow.xib */; };
+		15E93C3B1510840B0066A48C /* FeedbackWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 15E93C341510840B0066A48C /* FeedbackWindow.m */; };
+		15E93C3C1510840B0066A48C /* FeedbackWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 15E93C351510840B0066A48C /* FeedbackWindow.xib */; };
+		15E93C3D1510840B0066A48C /* MainWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 15E93C371510840B0066A48C /* MainWindow.m */; };
+		15E93C3E1510840B0066A48C /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 15E93C381510840B0066A48C /* MainWindow.xib */; };
+		15E943341526EC410060CFD2 /* Sore_throat.png in Resources */ = {isa = PBXBuildFile; fileRef = 15E943331526EC410060CFD2 /* Sore_throat.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		15D8A20015108ACB00BC90A1 /* Acute abdomen-pain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Acute abdomen-pain.png"; sourceTree = "<group>"; };
+		15D8A20115108ACB00BC90A1 /* Acute vision loss.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Acute vision loss.png"; sourceTree = "<group>"; };
+		15D8A20215108ACB00BC90A1 /* Amenorrhoea.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Amenorrhoea.png; sourceTree = "<group>"; };
+		15D8A20315108ACB00BC90A1 /* Ankle pain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ankle pain.png"; sourceTree = "<group>"; };
+		15D8A20415108ACB00BC90A1 /* Back PAin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Back PAin.png"; sourceTree = "<group>"; };
+		15D8A20515108ACB00BC90A1 /* Back1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Back1.png; sourceTree = "<group>"; };
+		15D8A20615108ACB00BC90A1 /* box-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "box-1.png"; sourceTree = "<group>"; };
+		15D8A20715108ACB00BC90A1 /* Burning Micturition(urination).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Burning Micturition(urination).png"; sourceTree = "<group>"; };
+		15D8A20815108ACB00BC90A1 /* Buy-next.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Buy-next.png"; sourceTree = "<group>"; };
+		15D8A20915108ACB00BC90A1 /* Chronic cough.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Chronic cough.png"; sourceTree = "<group>"; };
+		15D8A20A15108ACB00BC90A1 /* Comlex_60_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Comlex_60_icon.png; sourceTree = "<group>"; };
+		15D8A20B15108ACB00BC90A1 /* Constipation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Constipation.png; sourceTree = "<group>"; };
+		15D8A20C15108ACB00BC90A1 /* Diabetes follow up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Diabetes follow up.png"; sourceTree = "<group>"; };
+		15D8A20D15108ACB00BC90A1 /* Diarrhea in child.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Diarrhea in child.png"; sourceTree = "<group>"; };
+		15D8A20E15108ACB00BC90A1 /* Diarrhea in male.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Diarrhea in male.png"; sourceTree = "<group>"; };
+		15D8A20F15108ACB00BC90A1 /* Difficulty in urination in elderly male.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Difficulty in urination in elderly male.png"; sourceTree = "<group>"; };
+		15D8A21015108ACB00BC90A1 /* Dizziness in male.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Dizziness in male.png"; sourceTree = "<group>"; };
+		15D8A21115108ACB00BC90A1 /* Domestic violence.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Domestic violence.png"; sourceTree = "<group>"; };
+		15D8A21215108ACB00BC90A1 /* Dyspareunia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Dyspareunia.png; sourceTree = "<group>"; };
+		15D8A21315108ACB00BC90A1 /* Dysphagia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Dysphagia.png; sourceTree = "<group>"; };
+		15D8A21415108ACB00BC90A1 /* Elbow pain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Elbow pain.png"; sourceTree = "<group>"; };
+		15D8A21515108ACB00BC90A1 /* Epigastric pain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Epigastric pain.png"; sourceTree = "<group>"; };
+		15D8A21615108ACB00BC90A1 /* Epistaxis.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Epistaxis.png; sourceTree = "<group>"; };
+		15D8A21715108ACB00BC90A1 /* Erectile dysfunction.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Erectile dysfunction.png"; sourceTree = "<group>"; };
+		15D8A21915108ACB00BC90A1 /* Fever in new born.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Fever in new born.png"; sourceTree = "<group>"; };
+		15D8A21A15108ACB00BC90A1 /* First antenatal visit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "First antenatal visit.png"; sourceTree = "<group>"; };
+		15D8A21B15108ACB00BC90A1 /* Free.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Free.png; sourceTree = "<group>"; };
+		15D8A21C15108ACB00BC90A1 /* Frequent Falls.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Frequent Falls.png"; sourceTree = "<group>"; };
+		15D8A21D15108ACB00BC90A1 /* Headache – GCA.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Headache – GCA.png"; sourceTree = "<group>"; };
+		15D8A21E15108ACB00BC90A1 /* Headache – Meningitis.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Headache – Meningitis.png"; sourceTree = "<group>"; };
+		15D8A21F15108ACB00BC90A1 /* Headache – migraine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Headache – migraine.png"; sourceTree = "<group>"; };
+		15D8A22015108ACB00BC90A1 /* Headache- SAH.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Headache- SAH.png"; sourceTree = "<group>"; };
+		15D8A22115108ACB00BC90A1 /* Hearing loss.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Hearing loss.png"; sourceTree = "<group>"; };
+		15D8A22215108ACB00BC90A1 /* Heavy menstrual bleeding.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Heavy menstrual bleeding.png"; sourceTree = "<group>"; };
+		15D8A22315108ACB00BC90A1 /* Heel pain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Heel pain.png"; sourceTree = "<group>"; };
+		15D8A22415108ACB00BC90A1 /* Hematemesis.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Hematemesis.png; sourceTree = "<group>"; };
+		15D8A22515108ACB00BC90A1 /* Hematuria.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Hematuria.png; sourceTree = "<group>"; };
+		15D8A22615108ACB00BC90A1 /* Hemoptysis.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Hemoptysis.png; sourceTree = "<group>"; };
+		15D8A22715108ACB00BC90A1 /* Hip pain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Hip pain.png"; sourceTree = "<group>"; };
+		15D8A22815108ACB00BC90A1 /* Home37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Home37.png; sourceTree = "<group>"; };
+		15D8A22915108ACB00BC90A1 /* Hot flushes in elderly female.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Hot flushes in elderly female.png"; sourceTree = "<group>"; };
+		15D8A22A15108ACB00BC90A1 /* Hypertansion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Hypertansion.png; sourceTree = "<group>"; };
+		15D8A22B15108ACB00BC90A1 /* Insomnia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Insomnia.png; sourceTree = "<group>"; };
+		15D8A22C15108ACB00BC90A1 /* Insurance check up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Insurance check up.png"; sourceTree = "<group>"; };
+		15D8A22D15108ACB00BC90A1 /* Jaundice.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Jaundice.png; sourceTree = "<group>"; };
+		15D8A22E15108ACB00BC90A1 /* Joint Pain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Joint Pain.png"; sourceTree = "<group>"; };
+		15D8A22F15108ACB00BC90A1 /* Knee PAin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Knee PAin.png"; sourceTree = "<group>"; };
+		15D8A23015108ACB00BC90A1 /* Loss of consciousness.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Loss of consciousness.png"; sourceTree = "<group>"; };
+		15D8A23115108ACB00BC90A1 /* Lower GI bleeding.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lower GI bleeding.png"; sourceTree = "<group>"; };
+		15D8A23215108ACB00BC90A1 /* Melena.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Melena.png; sourceTree = "<group>"; };
+		15D8A23315108ACB00BC90A1 /* Memory Loss.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Memory Loss.png"; sourceTree = "<group>"; };
+		15D8A23415108ACB00BC90A1 /* Mian_back.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mian_back.jpg; sourceTree = "<group>"; };
+		15D8A23515108ACB00BC90A1 /* Nausea and vomiting.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Nausea and vomiting.png"; sourceTree = "<group>"; };
+		15D8A23615108ACB00BC90A1 /* Numbness and weakness.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Numbness and weakness.png"; sourceTree = "<group>"; };
+		15D8A23715108ACB00BC90A1 /* numbness_weakness_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = numbness_weakness_icon.png; sourceTree = "<group>"; };
+		15D8A23815108ACB00BC90A1 /* Pain seeking behavior.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Pain seeking behavior.png"; sourceTree = "<group>"; };
+		15D8A23915108ACB00BC90A1 /* Palpitations.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Palpitations.png; sourceTree = "<group>"; };
+		15D8A23A15108ACB00BC90A1 /* sad mood and fatigue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sad mood and fatigue.png"; sourceTree = "<group>"; };
+		15D8A23B15108ACB00BC90A1 /* Screen Shot 2011-11-15 at 12.41.37 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2011-11-15 at 12.41.37 PM.png"; sourceTree = "<group>"; };
+		15D8A23C15108ACB00BC90A1 /* Shortness of breath.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shortness of breath.png"; sourceTree = "<group>"; };
+		15D8A23D15108ACB00BC90A1 /* Shoulder pain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shoulder pain.png"; sourceTree = "<group>"; };
+		15D8A23E15108ACB00BC90A1 /* Sickle cell disease- acute pain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sickle cell disease- acute pain.png"; sourceTree = "<group>"; };
+		15D8A23F15108ACB00BC90A1 /* Sinusitis.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sinusitis.png; sourceTree = "<group>"; };
+		15D8A24015108ACB00BC90A1 /* Sore throat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sore throat.png"; sourceTree = "<group>"; };
+		15D8A24115108ACB00BC90A1 /* Standardize.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Standardize.png; sourceTree = "<group>"; };
+		15D8A24215108ACB00BC90A1 /* Vaginal discharge.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Vaginal discharge.png"; sourceTree = "<group>"; };
+		15D8A24315108ACB00BC90A1 /* Vomiting in new born.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Vomiting in new born.png"; sourceTree = "<group>"; };
+		15D8A24415108ACB00BC90A1 /* Weight gain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Weight gain.png"; sourceTree = "<group>"; };
+		15D8A24515108ACB00BC90A1 /* Weight loss.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Weight loss.png"; sourceTree = "<group>"; };
+		15D8A24615108ACB00BC90A1 /* welcomeback.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = welcomeback.jpg; sourceTree = "<group>"; };
+		15D8A24715108ACB00BC90A1 /* WiFi1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WiFi1.png; sourceTree = "<group>"; };
+		15D8A24815108ACB00BC90A1 /* Wrist pain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Wrist pain.png"; sourceTree = "<group>"; };
+		15D8A24915108ACB00BC90A1 /* wrist_pain_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wrist_pain_icon.png; sourceTree = "<group>"; };
+		15D8A29615108AE600BC90A1 /* Acute_abdomen_39_year_old_female_ER.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Acute_abdomen_39_year_old_female_ER.pdf; sourceTree = "<group>"; };
+		15D8A29715108AE600BC90A1 /* Amenorrhea_17_year_old_female_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Amenorrhea_17_year_old_female_clinic.pdf; sourceTree = "<group>"; };
+		15D8A29815108AE600BC90A1 /* Ankle_pain_30_year_old_male_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Ankle_pain_30_year_old_male_clinic.pdf; sourceTree = "<group>"; };
+		15D8A29915108AE600BC90A1 /* Back_pain.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Back_pain.pdf; sourceTree = "<group>"; };
+		15D8A29A15108AE600BC90A1 /* Bloody_Urine_62_year_old_male_ER.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Bloody_Urine_62_year_old_male_ER.pdf; sourceTree = "<group>"; };
+		15D8A29B15108AE600BC90A1 /* BPH.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = BPH.pdf; sourceTree = "<group>"; };
+		15D8A29C15108AE600BC90A1 /* Burning_micturition_65_year_old_woman_hospital.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Burning_micturition_65_year_old_woman_hospital.pdf; sourceTree = "<group>"; };
+		15D8A29D15108AE600BC90A1 /* Chronic_cough_33_year_old_mane_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Chronic_cough_33_year_old_mane_clinic.pdf; sourceTree = "<group>"; };
+		15D8A29E15108AE600BC90A1 /* Common_tips_for_CS.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Common_tips_for_CS.pdf; sourceTree = "<group>"; };
+		15D8A29F15108AE600BC90A1 /* Constipation_73_year_old_woman_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Constipation_73_year_old_woman_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2A015108AE600BC90A1 /* Diabetes_Mellitus_Follow_up_66_year_old_Man_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Diabetes_Mellitus_Follow_up_66_year_old_Man_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2A115108AE600BC90A1 /* Diarrhea_1_year_old_child_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Diarrhea_1_year_old_child_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2A215108AE600BC90A1 /* Diarrhea_32_year_old_male_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Diarrhea_32_year_old_male_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2A315108AE600BC90A1 /* Dizziness_45_year_old_man_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Dizziness_45_year_old_man_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2A415108AE600BC90A1 /* Domestic_abuse_40_year_old_Lady_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Domestic_abuse_40_year_old_Lady_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2A515108AE600BC90A1 /* Dyspareunia_24_year_old_female_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Dyspareunia_24_year_old_female_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2A615108AE600BC90A1 /* Dysphagia_65_year_old_male_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Dysphagia_65_year_old_male_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2A715108AE600BC90A1 /* Elbow_pain_56_year_old_male_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Elbow_pain_56_year_old_male_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2A815108AE600BC90A1 /* Epigastric-pain_53_year_old_male_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Epigastric-pain_53_year_old_male_clinic.pdf"; sourceTree = "<group>"; };
+		15D8A2A915108AE600BC90A1 /* Erectile_dysfunction_62_year_old_male_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Erectile_dysfunction_62_year_old_male_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2AA15108AE600BC90A1 /* Fever_in_child_telephonic_2_year_old_child_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Fever_in_child_telephonic_2_year_old_child_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2AB15108AE600BC90A1 /* First_antenatal_visit_26_year_old_female_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = First_antenatal_visit_26_year_old_female_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2AC15108AE600BC90A1 /* Frequent_fall_72_year_old_male_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Frequent_fall_72_year_old_male_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2AD15108AE600BC90A1 /* Headache_GCA__77_year_old_female_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Headache_GCA__77_year_old_female_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2AE15108AE600BC90A1 /* Headache_Meningitis__32_year_old_male_ER.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Headache_Meningitis__32_year_old_male_ER.pdf; sourceTree = "<group>"; };
+		15D8A2AF15108AE600BC90A1 /* Headache_Migraine__22_year_old_female_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Headache_Migraine__22_year_old_female_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2B015108AE600BC90A1 /* Headache_SAH__32_year_old_male_ER.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Headache_SAH__32_year_old_male_ER.pdf; sourceTree = "<group>"; };
+		15D8A2B115108AE600BC90A1 /* Hearing_loss__62_year_old_male_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Hearing_loss__62_year_old_male_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2B215108AE600BC90A1 /* Heavy_menstrual_bleeding_54_year_old_female_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Heavy_menstrual_bleeding_54_year_old_female_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2B315108AE600BC90A1 /* Heel_pain_32_year_old_female_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Heel_pain_32_year_old_female_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2B415108AE600BC90A1 /* Hemetemesis__46_year_old_male_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Hemetemesis__46_year_old_male_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2B515108AE600BC90A1 /* Hemoptysis_60_year_old_man_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Hemoptysis_60_year_old_man_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2B615108AE600BC90A1 /* Hip_pain_76_year_old_female_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Hip_pain_76_year_old_female_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2B715108AE600BC90A1 /* hot_flashes.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = hot_flashes.pdf; sourceTree = "<group>"; };
+		15D8A2B815108AE600BC90A1 /* Hypertension_follow-up__45_year_old_female_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Hypertension_follow-up__45_year_old_female_clinic.pdf"; sourceTree = "<group>"; };
+		15D8A2B915108AE600BC90A1 /* Insomnia__72_year_old_male_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Insomnia__72_year_old_male_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2BA15108AE600BC90A1 /* Insurance_Checkup_52_year_old_male_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Insurance_Checkup_52_year_old_male_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2BB15108AE600BC90A1 /* Jaundice__56_year_old_male_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Jaundice__56_year_old_male_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2BC15108AE600BC90A1 /* Joint_pain__60_year_old_female_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Joint_pain__60_year_old_female_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2BD15108AE600BC90A1 /* Knee_pain__65_year_old_female_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Knee_pain__65_year_old_female_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2BE15108AE600BC90A1 /* LGIB__45_year_old_male_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = LGIB__45_year_old_male_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2BF15108AE600BC90A1 /* LOC_54_year_old_male_ER.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = LOC_54_year_old_male_ER.pdf; sourceTree = "<group>"; };
+		15D8A2C015108AE600BC90A1 /* Lower_GI_bleeding_46_year_old_male_ER.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Lower_GI_bleeding_46_year_old_male_ER.pdf; sourceTree = "<group>"; };
+		15D8A2C115108AE600BC90A1 /* Memory_loss_87_year_old_female_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Memory_loss_87_year_old_female_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2C215108AE600BC90A1 /* Nausea_vomiting_32_year_old_female_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Nausea_vomiting_32_year_old_female_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2C315108AE600BC90A1 /* Nose-bleed_4_year_old_boy_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Nose-bleed_4_year_old_boy_clinic.pdf"; sourceTree = "<group>"; };
+		15D8A2C415108AE600BC90A1 /* Numbness_weakness_60_year_old_female_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Numbness_weakness_60_year_old_female_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2C515108AE600BC90A1 /* Pain_seeking_behavior_45_year_old_male_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Pain_seeking_behavior_45_year_old_male_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2C615108AE600BC90A1 /* Palpitations_56_year_old_female_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Palpitations_56_year_old_female_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2C715108AE600BC90A1 /* Sad_mood_and_fatigue_32_year_old_female_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Sad_mood_and_fatigue_32_year_old_female_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2C815108AE600BC90A1 /* Shortness_of_breath_56_year_old_female_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Shortness_of_breath_56_year_old_female_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2C915108AE600BC90A1 /* Shoulder_pain_46_year_old_female_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Shoulder_pain_46_year_old_female_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2CA15108AE600BC90A1 /* Sickle_cell_disease_26_year_old_male_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Sickle_cell_disease_26_year_old_male_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2CB15108AE600BC90A1 /* Sinusitis_33_year_old_male_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Sinusitis_33_year_old_male_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2CC15108AE600BC90A1 /* Sore_throat_20_year_old_male_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Sore_throat_20_year_old_male_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2CD15108AE600BC90A1 /* Standardized_patient_Check_lists.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Standardized_patient_Check_lists.pdf; sourceTree = "<group>"; };
+		15D8A2CE15108AE600BC90A1 /* Sudden_vision_loss_65_year_old_male_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Sudden_vision_loss_65_year_old_male_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2CF15108AE600BC90A1 /* Vaginal_discharge_34_year_old_female_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Vaginal_discharge_34_year_old_female_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2D015108AE600BC90A1 /* Vomiting_2_month_old__child_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Vomiting_2_month_old__child_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2D115108AE600BC90A1 /* Weight_gain_45_year_old_male_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Weight_gain_45_year_old_male_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2D215108AE600BC90A1 /* Weight_loss_46_year_old_female_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Weight_loss_46_year_old_female_clinic.pdf; sourceTree = "<group>"; };
+		15D8A2D315108AE600BC90A1 /* Wrist_pain_34_year_old_female_clinic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Wrist_pain_34_year_old_female_clinic.pdf; sourceTree = "<group>"; };
+		15D8A31215108B1F00BC90A1 /* COMMON_tips.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = COMMON_tips.png; sourceTree = "<group>"; };
+		15D8A31415108B2500BC90A1 /* shelves2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shelves2.jpg; sourceTree = "<group>"; };
+		15D8A31615108B7B00BC90A1 /* Back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Back.png; sourceTree = "<group>"; };
+		15D8A31815108B8A00BC90A1 /* Erectile_dysfunction_62_year_old_male_clinic_comlex.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Erectile_dysfunction_62_year_old_male_clinic_comlex.pdf; sourceTree = "<group>"; };
+		15D8A31E1510926100BC90A1 /* validatereceipt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = validatereceipt.h; sourceTree = "<group>"; };
+		15D8A31F1510926100BC90A1 /* validatereceipt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = validatereceipt.m; sourceTree = "<group>"; };
+		15D8A3211510944B00BC90A1 /* icon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = icon.icns; sourceTree = "<group>"; };
+		15E93BDD151082500066A48C /* COMLEX LEVEL 2 PE.COMLEX LEVEL 2 PE */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "COMLEX LEVEL 2 PE.COMLEX LEVEL 2 PE"; sourceTree = BUILT_PRODUCTS_DIR; };
+		15E93BE1151082500066A48C /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		15E93BE4151082500066A48C /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		15E93BE5151082500066A48C /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		15E93BE6151082500066A48C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		15E93BE9151082500066A48C /* COMLEX LEVEL 2 PE-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "COMLEX LEVEL 2 PE-Info.plist"; sourceTree = "<group>"; };
+		15E93BEB151082500066A48C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		15E93BED151082500066A48C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		15E93BEF151082500066A48C /* COMLEX LEVEL 2 PE-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "COMLEX LEVEL 2 PE-Prefix.pch"; sourceTree = "<group>"; };
+		15E93BF1151082500066A48C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		15E93BF3151082500066A48C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		15E93BF4151082500066A48C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		15E93BF7151082500066A48C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		15E93BFA151082500066A48C /* COMLEX_LEVEL_2_PE.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = COMLEX_LEVEL_2_PE.xcdatamodel; sourceTree = "<group>"; };
+		15E93C06151082A70066A48C /* Erectile_dysfunction_62_year_old_male_clinic_comlex.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Erectile_dysfunction_62_year_old_male_clinic_comlex.pdf; path = Cases/Erectile_dysfunction_62_year_old_male_clinic_comlex.pdf; sourceTree = "<group>"; };
+		15E93C08151082CF0066A48C /* FirstWindowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstWindowController.h; sourceTree = "<group>"; };
+		15E93C09151082CF0066A48C /* FirstWindowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstWindowController.m; sourceTree = "<group>"; };
+		15E93C0A151082CF0066A48C /* FirstWindowController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FirstWindowController.xib; sourceTree = "<group>"; };
+		15E93C0B151082CF0066A48C /* IAPforCases.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IAPforCases.h; sourceTree = "<group>"; };
+		15E93C0C151082CF0066A48C /* IAPforCases.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IAPforCases.m; sourceTree = "<group>"; };
+		15E93C0D151082CF0066A48C /* IAPforCases.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = IAPforCases.xib; sourceTree = "<group>"; };
+		15E93C0E151082CF0066A48C /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
+		15E93C0F151082CF0066A48C /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		15E93C10151082CF0066A48C /* SampleWindowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleWindowController.h; sourceTree = "<group>"; };
+		15E93C11151082CF0066A48C /* SampleWindowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleWindowController.m; sourceTree = "<group>"; };
+		15E93C12151082CF0066A48C /* SampleWindowController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SampleWindowController.xib; sourceTree = "<group>"; };
+		15E93C15151082CF0066A48C /* WelcomeWindow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WelcomeWindow.h; sourceTree = "<group>"; };
+		15E93C16151082CF0066A48C /* WelcomeWindow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WelcomeWindow.m; sourceTree = "<group>"; };
+		15E93C17151082CF0066A48C /* WelcomeWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WelcomeWindow.xib; sourceTree = "<group>"; };
+		15E93C22151083360066A48C /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		15E93C24151083430066A48C /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		15E93C261510834E0066A48C /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IOKit.framework; path = System/Library/Frameworks/IOKit.framework; sourceTree = SDKROOT; };
+		15E93C28151083560066A48C /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+		15E93C2A151083610066A48C /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		15E93C2C1510836C0066A48C /* Quartz.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Quartz.framework; path = System/Library/Frameworks/Quartz.framework; sourceTree = SDKROOT; };
+		15E93C2E1510837D0066A48C /* libcrypto.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libcrypto.dylib; path = usr/lib/libcrypto.dylib; sourceTree = SDKROOT; };
+		15E93C301510840B0066A48C /* DetailWindow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailWindow.h; sourceTree = "<group>"; };
+		15E93C311510840B0066A48C /* DetailWindow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailWindow.m; sourceTree = "<group>"; };
+		15E93C321510840B0066A48C /* DetailWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DetailWindow.xib; sourceTree = "<group>"; };
+		15E93C331510840B0066A48C /* FeedbackWindow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FeedbackWindow.h; sourceTree = "<group>"; };
+		15E93C341510840B0066A48C /* FeedbackWindow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FeedbackWindow.m; sourceTree = "<group>"; };
+		15E93C351510840B0066A48C /* FeedbackWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FeedbackWindow.xib; sourceTree = "<group>"; };
+		15E93C361510840B0066A48C /* MainWindow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainWindow.h; sourceTree = "<group>"; };
+		15E93C371510840B0066A48C /* MainWindow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainWindow.m; sourceTree = "<group>"; };
+		15E93C381510840B0066A48C /* MainWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		15E943331526EC410060CFD2 /* Sore_throat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sore_throat.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		15E93BDA151082500066A48C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				15E93C2F1510837D0066A48C /* libcrypto.dylib in Frameworks */,
+				15E93C2D1510836C0066A48C /* Quartz.framework in Frameworks */,
+				15E93C2B151083610066A48C /* SystemConfiguration.framework in Frameworks */,
+				15E93C29151083560066A48C /* WebKit.framework in Frameworks */,
+				15E93C271510834E0066A48C /* IOKit.framework in Frameworks */,
+				15E93C25151083430066A48C /* Security.framework in Frameworks */,
+				15E93C23151083360066A48C /* StoreKit.framework in Frameworks */,
+				15E93BE2151082500066A48C /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		15D8A1FF15108ACB00BC90A1 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				15D8A31615108B7B00BC90A1 /* Back.png */,
+				15D8A31415108B2500BC90A1 /* shelves2.jpg */,
+				15D8A31215108B1F00BC90A1 /* COMMON_tips.png */,
+				15D8A20015108ACB00BC90A1 /* Acute abdomen-pain.png */,
+				15D8A20115108ACB00BC90A1 /* Acute vision loss.png */,
+				15D8A20215108ACB00BC90A1 /* Amenorrhoea.png */,
+				15D8A20315108ACB00BC90A1 /* Ankle pain.png */,
+				15D8A20415108ACB00BC90A1 /* Back PAin.png */,
+				15D8A20515108ACB00BC90A1 /* Back1.png */,
+				15D8A20615108ACB00BC90A1 /* box-1.png */,
+				15D8A20715108ACB00BC90A1 /* Burning Micturition(urination).png */,
+				15D8A20815108ACB00BC90A1 /* Buy-next.png */,
+				15D8A20915108ACB00BC90A1 /* Chronic cough.png */,
+				15D8A20A15108ACB00BC90A1 /* Comlex_60_icon.png */,
+				15D8A20B15108ACB00BC90A1 /* Constipation.png */,
+				15D8A20C15108ACB00BC90A1 /* Diabetes follow up.png */,
+				15D8A20D15108ACB00BC90A1 /* Diarrhea in child.png */,
+				15D8A20E15108ACB00BC90A1 /* Diarrhea in male.png */,
+				15D8A20F15108ACB00BC90A1 /* Difficulty in urination in elderly male.png */,
+				15D8A21015108ACB00BC90A1 /* Dizziness in male.png */,
+				15D8A21115108ACB00BC90A1 /* Domestic violence.png */,
+				15D8A21215108ACB00BC90A1 /* Dyspareunia.png */,
+				15D8A21315108ACB00BC90A1 /* Dysphagia.png */,
+				15D8A21415108ACB00BC90A1 /* Elbow pain.png */,
+				15D8A21515108ACB00BC90A1 /* Epigastric pain.png */,
+				15D8A21615108ACB00BC90A1 /* Epistaxis.png */,
+				15D8A21715108ACB00BC90A1 /* Erectile dysfunction.png */,
+				15E943331526EC410060CFD2 /* Sore_throat.png */,
+				15D8A21915108ACB00BC90A1 /* Fever in new born.png */,
+				15D8A21A15108ACB00BC90A1 /* First antenatal visit.png */,
+				15D8A21B15108ACB00BC90A1 /* Free.png */,
+				15D8A21C15108ACB00BC90A1 /* Frequent Falls.png */,
+				15D8A21D15108ACB00BC90A1 /* Headache – GCA.png */,
+				15D8A21E15108ACB00BC90A1 /* Headache – Meningitis.png */,
+				15D8A21F15108ACB00BC90A1 /* Headache – migraine.png */,
+				15D8A22015108ACB00BC90A1 /* Headache- SAH.png */,
+				15D8A22115108ACB00BC90A1 /* Hearing loss.png */,
+				15D8A22215108ACB00BC90A1 /* Heavy menstrual bleeding.png */,
+				15D8A22315108ACB00BC90A1 /* Heel pain.png */,
+				15D8A22415108ACB00BC90A1 /* Hematemesis.png */,
+				15D8A22515108ACB00BC90A1 /* Hematuria.png */,
+				15D8A22615108ACB00BC90A1 /* Hemoptysis.png */,
+				15D8A22715108ACB00BC90A1 /* Hip pain.png */,
+				15D8A22815108ACB00BC90A1 /* Home37.png */,
+				15D8A22915108ACB00BC90A1 /* Hot flushes in elderly female.png */,
+				15D8A22A15108ACB00BC90A1 /* Hypertansion.png */,
+				15D8A22B15108ACB00BC90A1 /* Insomnia.png */,
+				15D8A22C15108ACB00BC90A1 /* Insurance check up.png */,
+				15D8A22D15108ACB00BC90A1 /* Jaundice.png */,
+				15D8A22E15108ACB00BC90A1 /* Joint Pain.png */,
+				15D8A22F15108ACB00BC90A1 /* Knee PAin.png */,
+				15D8A23015108ACB00BC90A1 /* Loss of consciousness.png */,
+				15D8A23115108ACB00BC90A1 /* Lower GI bleeding.png */,
+				15D8A23215108ACB00BC90A1 /* Melena.png */,
+				15D8A23315108ACB00BC90A1 /* Memory Loss.png */,
+				15D8A23415108ACB00BC90A1 /* Mian_back.jpg */,
+				15D8A23515108ACB00BC90A1 /* Nausea and vomiting.png */,
+				15D8A23615108ACB00BC90A1 /* Numbness and weakness.png */,
+				15D8A23715108ACB00BC90A1 /* numbness_weakness_icon.png */,
+				15D8A23815108ACB00BC90A1 /* Pain seeking behavior.png */,
+				15D8A23915108ACB00BC90A1 /* Palpitations.png */,
+				15D8A23A15108ACB00BC90A1 /* sad mood and fatigue.png */,
+				15D8A23B15108ACB00BC90A1 /* Screen Shot 2011-11-15 at 12.41.37 PM.png */,
+				15D8A23C15108ACB00BC90A1 /* Shortness of breath.png */,
+				15D8A23D15108ACB00BC90A1 /* Shoulder pain.png */,
+				15D8A23E15108ACB00BC90A1 /* Sickle cell disease- acute pain.png */,
+				15D8A23F15108ACB00BC90A1 /* Sinusitis.png */,
+				15D8A24015108ACB00BC90A1 /* Sore throat.png */,
+				15D8A24115108ACB00BC90A1 /* Standardize.png */,
+				15D8A24215108ACB00BC90A1 /* Vaginal discharge.png */,
+				15D8A24315108ACB00BC90A1 /* Vomiting in new born.png */,
+				15D8A24415108ACB00BC90A1 /* Weight gain.png */,
+				15D8A24515108ACB00BC90A1 /* Weight loss.png */,
+				15D8A24615108ACB00BC90A1 /* welcomeback.jpg */,
+				15D8A24715108ACB00BC90A1 /* WiFi1.png */,
+				15D8A24815108ACB00BC90A1 /* Wrist pain.png */,
+				15D8A24915108ACB00BC90A1 /* wrist_pain_icon.png */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		15D8A29515108AE600BC90A1 /* MacPdf */ = {
+			isa = PBXGroup;
+			children = (
+				15D8A2A915108AE600BC90A1 /* Erectile_dysfunction_62_year_old_male_clinic.pdf */,
+				15D8A29615108AE600BC90A1 /* Acute_abdomen_39_year_old_female_ER.pdf */,
+				15D8A29715108AE600BC90A1 /* Amenorrhea_17_year_old_female_clinic.pdf */,
+				15D8A29815108AE600BC90A1 /* Ankle_pain_30_year_old_male_clinic.pdf */,
+				15D8A29915108AE600BC90A1 /* Back_pain.pdf */,
+				15D8A29A15108AE600BC90A1 /* Bloody_Urine_62_year_old_male_ER.pdf */,
+				15D8A29B15108AE600BC90A1 /* BPH.pdf */,
+				15D8A29C15108AE600BC90A1 /* Burning_micturition_65_year_old_woman_hospital.pdf */,
+				15D8A29D15108AE600BC90A1 /* Chronic_cough_33_year_old_mane_clinic.pdf */,
+				15D8A29E15108AE600BC90A1 /* Common_tips_for_CS.pdf */,
+				15D8A29F15108AE600BC90A1 /* Constipation_73_year_old_woman_clinic.pdf */,
+				15D8A2A015108AE600BC90A1 /* Diabetes_Mellitus_Follow_up_66_year_old_Man_clinic.pdf */,
+				15D8A2A115108AE600BC90A1 /* Diarrhea_1_year_old_child_clinic.pdf */,
+				15D8A2A215108AE600BC90A1 /* Diarrhea_32_year_old_male_clinic.pdf */,
+				15D8A2A315108AE600BC90A1 /* Dizziness_45_year_old_man_clinic.pdf */,
+				15D8A2A415108AE600BC90A1 /* Domestic_abuse_40_year_old_Lady_clinic.pdf */,
+				15D8A2A515108AE600BC90A1 /* Dyspareunia_24_year_old_female_clinic.pdf */,
+				15D8A2A615108AE600BC90A1 /* Dysphagia_65_year_old_male_clinic.pdf */,
+				15D8A2A715108AE600BC90A1 /* Elbow_pain_56_year_old_male_clinic.pdf */,
+				15D8A2A815108AE600BC90A1 /* Epigastric-pain_53_year_old_male_clinic.pdf */,
+				15D8A2AA15108AE600BC90A1 /* Fever_in_child_telephonic_2_year_old_child_clinic.pdf */,
+				15D8A2AB15108AE600BC90A1 /* First_antenatal_visit_26_year_old_female_clinic.pdf */,
+				15D8A2AC15108AE600BC90A1 /* Frequent_fall_72_year_old_male_clinic.pdf */,
+				15D8A2AD15108AE600BC90A1 /* Headache_GCA__77_year_old_female_clinic.pdf */,
+				15D8A2AE15108AE600BC90A1 /* Headache_Meningitis__32_year_old_male_ER.pdf */,
+				15D8A2AF15108AE600BC90A1 /* Headache_Migraine__22_year_old_female_clinic.pdf */,
+				15D8A2B015108AE600BC90A1 /* Headache_SAH__32_year_old_male_ER.pdf */,
+				15D8A2B115108AE600BC90A1 /* Hearing_loss__62_year_old_male_clinic.pdf */,
+				15D8A2B215108AE600BC90A1 /* Heavy_menstrual_bleeding_54_year_old_female_clinic.pdf */,
+				15D8A2B315108AE600BC90A1 /* Heel_pain_32_year_old_female_clinic.pdf */,
+				15D8A2B415108AE600BC90A1 /* Hemetemesis__46_year_old_male_clinic.pdf */,
+				15D8A2B515108AE600BC90A1 /* Hemoptysis_60_year_old_man_clinic.pdf */,
+				15D8A2B615108AE600BC90A1 /* Hip_pain_76_year_old_female_clinic.pdf */,
+				15D8A2B715108AE600BC90A1 /* hot_flashes.pdf */,
+				15D8A2B815108AE600BC90A1 /* Hypertension_follow-up__45_year_old_female_clinic.pdf */,
+				15D8A2B915108AE600BC90A1 /* Insomnia__72_year_old_male_clinic.pdf */,
+				15D8A2BA15108AE600BC90A1 /* Insurance_Checkup_52_year_old_male_clinic.pdf */,
+				15D8A2BB15108AE600BC90A1 /* Jaundice__56_year_old_male_clinic.pdf */,
+				15D8A2BC15108AE600BC90A1 /* Joint_pain__60_year_old_female_clinic.pdf */,
+				15D8A2BD15108AE600BC90A1 /* Knee_pain__65_year_old_female_clinic.pdf */,
+				15D8A2BE15108AE600BC90A1 /* LGIB__45_year_old_male_clinic.pdf */,
+				15D8A2BF15108AE600BC90A1 /* LOC_54_year_old_male_ER.pdf */,
+				15D8A2C015108AE600BC90A1 /* Lower_GI_bleeding_46_year_old_male_ER.pdf */,
+				15D8A2C115108AE600BC90A1 /* Memory_loss_87_year_old_female_clinic.pdf */,
+				15D8A2C215108AE600BC90A1 /* Nausea_vomiting_32_year_old_female_clinic.pdf */,
+				15D8A2C315108AE600BC90A1 /* Nose-bleed_4_year_old_boy_clinic.pdf */,
+				15D8A2C415108AE600BC90A1 /* Numbness_weakness_60_year_old_female_clinic.pdf */,
+				15D8A2C515108AE600BC90A1 /* Pain_seeking_behavior_45_year_old_male_clinic.pdf */,
+				15D8A2C615108AE600BC90A1 /* Palpitations_56_year_old_female_clinic.pdf */,
+				15D8A2C715108AE600BC90A1 /* Sad_mood_and_fatigue_32_year_old_female_clinic.pdf */,
+				15D8A2C815108AE600BC90A1 /* Shortness_of_breath_56_year_old_female_clinic.pdf */,
+				15D8A2C915108AE600BC90A1 /* Shoulder_pain_46_year_old_female_clinic.pdf */,
+				15D8A2CA15108AE600BC90A1 /* Sickle_cell_disease_26_year_old_male_clinic.pdf */,
+				15D8A2CB15108AE600BC90A1 /* Sinusitis_33_year_old_male_clinic.pdf */,
+				15D8A2CC15108AE600BC90A1 /* Sore_throat_20_year_old_male_clinic.pdf */,
+				15D8A2CD15108AE600BC90A1 /* Standardized_patient_Check_lists.pdf */,
+				15D8A2CE15108AE600BC90A1 /* Sudden_vision_loss_65_year_old_male_clinic.pdf */,
+				15D8A2CF15108AE600BC90A1 /* Vaginal_discharge_34_year_old_female_clinic.pdf */,
+				15D8A2D015108AE600BC90A1 /* Vomiting_2_month_old__child_clinic.pdf */,
+				15D8A2D115108AE600BC90A1 /* Weight_gain_45_year_old_male_clinic.pdf */,
+				15D8A2D215108AE600BC90A1 /* Weight_loss_46_year_old_female_clinic.pdf */,
+				15D8A2D315108AE600BC90A1 /* Wrist_pain_34_year_old_female_clinic.pdf */,
+			);
+			path = MacPdf;
+			sourceTree = "<group>";
+		};
+		15E93BD2151082500066A48C = {
+			isa = PBXGroup;
+			children = (
+				15D8A3211510944B00BC90A1 /* icon.icns */,
+				15E93C2E1510837D0066A48C /* libcrypto.dylib */,
+				15E93BE7151082500066A48C /* COMLEX LEVEL 2 PE */,
+				15E93BE0151082500066A48C /* Frameworks */,
+				15E93BDE151082500066A48C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		15E93BDE151082500066A48C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				15E93BDD151082500066A48C /* COMLEX LEVEL 2 PE.COMLEX LEVEL 2 PE */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		15E93BE0151082500066A48C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				15E93C2C1510836C0066A48C /* Quartz.framework */,
+				15E93C2A151083610066A48C /* SystemConfiguration.framework */,
+				15E93C28151083560066A48C /* WebKit.framework */,
+				15E93C261510834E0066A48C /* IOKit.framework */,
+				15E93C24151083430066A48C /* Security.framework */,
+				15E93C22151083360066A48C /* StoreKit.framework */,
+				15E93BE1151082500066A48C /* Cocoa.framework */,
+				15E93BE3151082500066A48C /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		15E93BE3151082500066A48C /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				15E93BE4151082500066A48C /* AppKit.framework */,
+				15E93BE5151082500066A48C /* CoreData.framework */,
+				15E93BE6151082500066A48C /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		15E93BE7151082500066A48C /* COMLEX LEVEL 2 PE */ = {
+			isa = PBXGroup;
+			children = (
+				15E93BF3151082500066A48C /* AppDelegate.h */,
+				15E93BF4151082500066A48C /* AppDelegate.m */,
+				15E93BF6151082500066A48C /* MainMenu.xib */,
+				15E93C15151082CF0066A48C /* WelcomeWindow.h */,
+				15E93C16151082CF0066A48C /* WelcomeWindow.m */,
+				15E93C17151082CF0066A48C /* WelcomeWindow.xib */,
+				15E93C08151082CF0066A48C /* FirstWindowController.h */,
+				15E93C09151082CF0066A48C /* FirstWindowController.m */,
+				15E93C0A151082CF0066A48C /* FirstWindowController.xib */,
+				15E93C10151082CF0066A48C /* SampleWindowController.h */,
+				15E93C11151082CF0066A48C /* SampleWindowController.m */,
+				15E93C12151082CF0066A48C /* SampleWindowController.xib */,
+				15E93C0B151082CF0066A48C /* IAPforCases.h */,
+				15E93C0C151082CF0066A48C /* IAPforCases.m */,
+				15E93C0D151082CF0066A48C /* IAPforCases.xib */,
+				15E93C0E151082CF0066A48C /* Reachability.h */,
+				15E93C0F151082CF0066A48C /* Reachability.m */,
+				15D8A31E1510926100BC90A1 /* validatereceipt.h */,
+				15D8A31F1510926100BC90A1 /* validatereceipt.m */,
+				15E93BF9151082500066A48C /* COMLEX_LEVEL_2_PE.xcdatamodeld */,
+				15E93C06151082A70066A48C /* Erectile_dysfunction_62_year_old_male_clinic_comlex.pdf */,
+				15D8A31815108B8A00BC90A1 /* Erectile_dysfunction_62_year_old_male_clinic_comlex.pdf */,
+				15E93C05151082A70066A48C /* Cases */,
+				15E93BE8151082500066A48C /* Supporting Files */,
+			);
+			path = "COMLEX LEVEL 2 PE";
+			sourceTree = "<group>";
+		};
+		15E93BE8151082500066A48C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				15D8A29515108AE600BC90A1 /* MacPdf */,
+				15D8A1FF15108ACB00BC90A1 /* images */,
+				15E93BE9151082500066A48C /* COMLEX LEVEL 2 PE-Info.plist */,
+				15E93BEA151082500066A48C /* InfoPlist.strings */,
+				15E93BED151082500066A48C /* main.m */,
+				15E93BEF151082500066A48C /* COMLEX LEVEL 2 PE-Prefix.pch */,
+				15E93BF0151082500066A48C /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		15E93C05151082A70066A48C /* Cases */ = {
+			isa = PBXGroup;
+			children = (
+				15E93C361510840B0066A48C /* MainWindow.h */,
+				15E93C371510840B0066A48C /* MainWindow.m */,
+				15E93C381510840B0066A48C /* MainWindow.xib */,
+				15E93C301510840B0066A48C /* DetailWindow.h */,
+				15E93C311510840B0066A48C /* DetailWindow.m */,
+				15E93C321510840B0066A48C /* DetailWindow.xib */,
+				15E93C331510840B0066A48C /* FeedbackWindow.h */,
+				15E93C341510840B0066A48C /* FeedbackWindow.m */,
+				15E93C351510840B0066A48C /* FeedbackWindow.xib */,
+			);
+			path = Cases;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		15E93BDC151082500066A48C /* COMLEX LEVEL 2 PE */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 15E93BFE151082500066A48C /* Build configuration list for PBXNativeTarget "COMLEX LEVEL 2 PE" */;
+			buildPhases = (
+				15E93BD9151082500066A48C /* Sources */,
+				15E93BDA151082500066A48C /* Frameworks */,
+				15E93BDB151082500066A48C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "COMLEX LEVEL 2 PE";
+			productName = "COMLEX LEVEL 2 PE";
+			productReference = 15E93BDD151082500066A48C /* COMLEX LEVEL 2 PE.COMLEX LEVEL 2 PE */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		15E93BD4151082500066A48C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0930;
+				ORGANIZATIONNAME = SPEC;
+			};
+			buildConfigurationList = 15E93BD7151082500066A48C /* Build configuration list for PBXProject "COMLEX LEVEL 2 PE" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 15E93BD2151082500066A48C;
+			productRefGroup = 15E93BDE151082500066A48C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				15E93BDC151082500066A48C /* COMLEX LEVEL 2 PE */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		15E93BDB151082500066A48C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				15E93BEC151082500066A48C /* InfoPlist.strings in Resources */,
+				15E93BF2151082500066A48C /* Credits.rtf in Resources */,
+				15E93BF8151082500066A48C /* MainMenu.xib in Resources */,
+				15E93C07151082A70066A48C /* Erectile_dysfunction_62_year_old_male_clinic_comlex.pdf in Resources */,
+				15E93C19151082CF0066A48C /* FirstWindowController.xib in Resources */,
+				15E93C1B151082CF0066A48C /* IAPforCases.xib in Resources */,
+				15E93C1E151082CF0066A48C /* SampleWindowController.xib in Resources */,
+				15E93C21151082CF0066A48C /* WelcomeWindow.xib in Resources */,
+				15E93C3A1510840B0066A48C /* DetailWindow.xib in Resources */,
+				15E93C3C1510840B0066A48C /* FeedbackWindow.xib in Resources */,
+				15E93C3E1510840B0066A48C /* MainWindow.xib in Resources */,
+				15D8A24A15108ACB00BC90A1 /* Acute abdomen-pain.png in Resources */,
+				15D8A24B15108ACB00BC90A1 /* Acute vision loss.png in Resources */,
+				15D8A24C15108ACB00BC90A1 /* Amenorrhoea.png in Resources */,
+				15D8A24D15108ACB00BC90A1 /* Ankle pain.png in Resources */,
+				15D8A24E15108ACB00BC90A1 /* Back PAin.png in Resources */,
+				15D8A24F15108ACB00BC90A1 /* Back1.png in Resources */,
+				15D8A25015108ACB00BC90A1 /* box-1.png in Resources */,
+				15D8A25115108ACB00BC90A1 /* Burning Micturition(urination).png in Resources */,
+				15D8A25215108ACB00BC90A1 /* Buy-next.png in Resources */,
+				15D8A25315108ACB00BC90A1 /* Chronic cough.png in Resources */,
+				15D8A25415108ACB00BC90A1 /* Comlex_60_icon.png in Resources */,
+				15D8A25515108ACB00BC90A1 /* Constipation.png in Resources */,
+				15D8A25615108ACB00BC90A1 /* Diabetes follow up.png in Resources */,
+				15D8A25715108ACB00BC90A1 /* Diarrhea in child.png in Resources */,
+				15D8A25815108ACB00BC90A1 /* Diarrhea in male.png in Resources */,
+				15D8A25915108ACB00BC90A1 /* Difficulty in urination in elderly male.png in Resources */,
+				15D8A25A15108ACB00BC90A1 /* Dizziness in male.png in Resources */,
+				15D8A25B15108ACB00BC90A1 /* Domestic violence.png in Resources */,
+				15D8A25C15108ACB00BC90A1 /* Dyspareunia.png in Resources */,
+				15D8A25D15108ACB00BC90A1 /* Dysphagia.png in Resources */,
+				15D8A25E15108ACB00BC90A1 /* Elbow pain.png in Resources */,
+				15D8A25F15108ACB00BC90A1 /* Epigastric pain.png in Resources */,
+				15D8A26015108ACB00BC90A1 /* Epistaxis.png in Resources */,
+				15D8A26115108ACB00BC90A1 /* Erectile dysfunction.png in Resources */,
+				15D8A26315108ACB00BC90A1 /* Fever in new born.png in Resources */,
+				15D8A26415108ACB00BC90A1 /* First antenatal visit.png in Resources */,
+				15D8A26515108ACB00BC90A1 /* Free.png in Resources */,
+				15D8A26615108ACB00BC90A1 /* Frequent Falls.png in Resources */,
+				15D8A26715108ACB00BC90A1 /* Headache – GCA.png in Resources */,
+				15D8A26815108ACB00BC90A1 /* Headache – Meningitis.png in Resources */,
+				15D8A26915108ACB00BC90A1 /* Headache – migraine.png in Resources */,
+				15D8A26A15108ACB00BC90A1 /* Headache- SAH.png in Resources */,
+				15D8A26B15108ACB00BC90A1 /* Hearing loss.png in Resources */,
+				15D8A26C15108ACB00BC90A1 /* Heavy menstrual bleeding.png in Resources */,
+				15D8A26D15108ACB00BC90A1 /* Heel pain.png in Resources */,
+				15D8A26E15108ACB00BC90A1 /* Hematemesis.png in Resources */,
+				15D8A26F15108ACB00BC90A1 /* Hematuria.png in Resources */,
+				15D8A27015108ACB00BC90A1 /* Hemoptysis.png in Resources */,
+				15D8A27115108ACB00BC90A1 /* Hip pain.png in Resources */,
+				15D8A27215108ACB00BC90A1 /* Home37.png in Resources */,
+				15D8A27315108ACB00BC90A1 /* Hot flushes in elderly female.png in Resources */,
+				15D8A27415108ACB00BC90A1 /* Hypertansion.png in Resources */,
+				15D8A27515108ACB00BC90A1 /* Insomnia.png in Resources */,
+				15D8A27615108ACB00BC90A1 /* Insurance check up.png in Resources */,
+				15D8A27715108ACB00BC90A1 /* Jaundice.png in Resources */,
+				15D8A27815108ACB00BC90A1 /* Joint Pain.png in Resources */,
+				15D8A27915108ACB00BC90A1 /* Knee PAin.png in Resources */,
+				15D8A27A15108ACB00BC90A1 /* Loss of consciousness.png in Resources */,
+				15D8A27B15108ACB00BC90A1 /* Lower GI bleeding.png in Resources */,
+				15D8A27C15108ACB00BC90A1 /* Melena.png in Resources */,
+				15D8A27D15108ACB00BC90A1 /* Memory Loss.png in Resources */,
+				15D8A27E15108ACB00BC90A1 /* Mian_back.jpg in Resources */,
+				15D8A27F15108ACB00BC90A1 /* Nausea and vomiting.png in Resources */,
+				15D8A28015108ACB00BC90A1 /* Numbness and weakness.png in Resources */,
+				15D8A28115108ACB00BC90A1 /* numbness_weakness_icon.png in Resources */,
+				15D8A28215108ACB00BC90A1 /* Pain seeking behavior.png in Resources */,
+				15D8A28315108ACB00BC90A1 /* Palpitations.png in Resources */,
+				15D8A28415108ACB00BC90A1 /* sad mood and fatigue.png in Resources */,
+				15D8A28515108ACB00BC90A1 /* Screen Shot 2011-11-15 at 12.41.37 PM.png in Resources */,
+				15D8A28615108ACB00BC90A1 /* Shortness of breath.png in Resources */,
+				15D8A28715108ACB00BC90A1 /* Shoulder pain.png in Resources */,
+				15D8A28815108ACB00BC90A1 /* Sickle cell disease- acute pain.png in Resources */,
+				15D8A28915108ACB00BC90A1 /* Sinusitis.png in Resources */,
+				15D8A28A15108ACB00BC90A1 /* Sore throat.png in Resources */,
+				15D8A28B15108ACB00BC90A1 /* Standardize.png in Resources */,
+				15D8A28C15108ACB00BC90A1 /* Vaginal discharge.png in Resources */,
+				15D8A28D15108ACB00BC90A1 /* Vomiting in new born.png in Resources */,
+				15D8A28E15108ACB00BC90A1 /* Weight gain.png in Resources */,
+				15D8A28F15108ACB00BC90A1 /* Weight loss.png in Resources */,
+				15D8A29015108ACB00BC90A1 /* welcomeback.jpg in Resources */,
+				15D8A29115108ACB00BC90A1 /* WiFi1.png in Resources */,
+				15D8A29215108ACB00BC90A1 /* Wrist pain.png in Resources */,
+				15D8A29315108ACB00BC90A1 /* wrist_pain_icon.png in Resources */,
+				15D8A2D415108AE600BC90A1 /* Acute_abdomen_39_year_old_female_ER.pdf in Resources */,
+				15D8A2D515108AE600BC90A1 /* Amenorrhea_17_year_old_female_clinic.pdf in Resources */,
+				15D8A2D615108AE600BC90A1 /* Ankle_pain_30_year_old_male_clinic.pdf in Resources */,
+				15D8A2D715108AE600BC90A1 /* Back_pain.pdf in Resources */,
+				15D8A2D815108AE600BC90A1 /* Bloody_Urine_62_year_old_male_ER.pdf in Resources */,
+				15D8A2D915108AE600BC90A1 /* BPH.pdf in Resources */,
+				15D8A2DA15108AE600BC90A1 /* Burning_micturition_65_year_old_woman_hospital.pdf in Resources */,
+				15D8A2DB15108AE600BC90A1 /* Chronic_cough_33_year_old_mane_clinic.pdf in Resources */,
+				15D8A2DC15108AE600BC90A1 /* Common_tips_for_CS.pdf in Resources */,
+				15D8A2DD15108AE600BC90A1 /* Constipation_73_year_old_woman_clinic.pdf in Resources */,
+				15D8A2DE15108AE600BC90A1 /* Diabetes_Mellitus_Follow_up_66_year_old_Man_clinic.pdf in Resources */,
+				15D8A2DF15108AE600BC90A1 /* Diarrhea_1_year_old_child_clinic.pdf in Resources */,
+				15D8A2E015108AE600BC90A1 /* Diarrhea_32_year_old_male_clinic.pdf in Resources */,
+				15D8A2E115108AE600BC90A1 /* Dizziness_45_year_old_man_clinic.pdf in Resources */,
+				15D8A2E215108AE600BC90A1 /* Domestic_abuse_40_year_old_Lady_clinic.pdf in Resources */,
+				15D8A2E315108AE600BC90A1 /* Dyspareunia_24_year_old_female_clinic.pdf in Resources */,
+				15D8A2E415108AE600BC90A1 /* Dysphagia_65_year_old_male_clinic.pdf in Resources */,
+				15D8A2E515108AE600BC90A1 /* Elbow_pain_56_year_old_male_clinic.pdf in Resources */,
+				15D8A2E615108AE600BC90A1 /* Epigastric-pain_53_year_old_male_clinic.pdf in Resources */,
+				15D8A2E715108AE600BC90A1 /* Erectile_dysfunction_62_year_old_male_clinic.pdf in Resources */,
+				15D8A2E815108AE600BC90A1 /* Fever_in_child_telephonic_2_year_old_child_clinic.pdf in Resources */,
+				15D8A2E915108AE600BC90A1 /* First_antenatal_visit_26_year_old_female_clinic.pdf in Resources */,
+				15D8A2EA15108AE600BC90A1 /* Frequent_fall_72_year_old_male_clinic.pdf in Resources */,
+				15D8A2EB15108AE600BC90A1 /* Headache_GCA__77_year_old_female_clinic.pdf in Resources */,
+				15D8A2EC15108AE600BC90A1 /* Headache_Meningitis__32_year_old_male_ER.pdf in Resources */,
+				15D8A2ED15108AE600BC90A1 /* Headache_Migraine__22_year_old_female_clinic.pdf in Resources */,
+				15D8A2EE15108AE600BC90A1 /* Headache_SAH__32_year_old_male_ER.pdf in Resources */,
+				15D8A2EF15108AE600BC90A1 /* Hearing_loss__62_year_old_male_clinic.pdf in Resources */,
+				15D8A2F015108AE600BC90A1 /* Heavy_menstrual_bleeding_54_year_old_female_clinic.pdf in Resources */,
+				15D8A2F115108AE600BC90A1 /* Heel_pain_32_year_old_female_clinic.pdf in Resources */,
+				15D8A2F215108AE600BC90A1 /* Hemetemesis__46_year_old_male_clinic.pdf in Resources */,
+				15D8A2F315108AE600BC90A1 /* Hemoptysis_60_year_old_man_clinic.pdf in Resources */,
+				15D8A2F415108AE600BC90A1 /* Hip_pain_76_year_old_female_clinic.pdf in Resources */,
+				15D8A2F515108AE600BC90A1 /* hot_flashes.pdf in Resources */,
+				15D8A2F615108AE600BC90A1 /* Hypertension_follow-up__45_year_old_female_clinic.pdf in Resources */,
+				15D8A2F715108AE600BC90A1 /* Insomnia__72_year_old_male_clinic.pdf in Resources */,
+				15D8A2F815108AE600BC90A1 /* Insurance_Checkup_52_year_old_male_clinic.pdf in Resources */,
+				15D8A2F915108AE600BC90A1 /* Jaundice__56_year_old_male_clinic.pdf in Resources */,
+				15D8A2FA15108AE600BC90A1 /* Joint_pain__60_year_old_female_clinic.pdf in Resources */,
+				15D8A2FB15108AE600BC90A1 /* Knee_pain__65_year_old_female_clinic.pdf in Resources */,
+				15D8A2FC15108AE600BC90A1 /* LGIB__45_year_old_male_clinic.pdf in Resources */,
+				15D8A2FD15108AE600BC90A1 /* LOC_54_year_old_male_ER.pdf in Resources */,
+				15D8A2FE15108AE600BC90A1 /* Lower_GI_bleeding_46_year_old_male_ER.pdf in Resources */,
+				15D8A2FF15108AE600BC90A1 /* Memory_loss_87_year_old_female_clinic.pdf in Resources */,
+				15D8A30015108AE600BC90A1 /* Nausea_vomiting_32_year_old_female_clinic.pdf in Resources */,
+				15D8A30115108AE600BC90A1 /* Nose-bleed_4_year_old_boy_clinic.pdf in Resources */,
+				15D8A30215108AE600BC90A1 /* Numbness_weakness_60_year_old_female_clinic.pdf in Resources */,
+				15D8A30315108AE600BC90A1 /* Pain_seeking_behavior_45_year_old_male_clinic.pdf in Resources */,
+				15D8A30415108AE600BC90A1 /* Palpitations_56_year_old_female_clinic.pdf in Resources */,
+				15D8A30515108AE600BC90A1 /* Sad_mood_and_fatigue_32_year_old_female_clinic.pdf in Resources */,
+				15D8A30615108AE600BC90A1 /* Shortness_of_breath_56_year_old_female_clinic.pdf in Resources */,
+				15D8A30715108AE600BC90A1 /* Shoulder_pain_46_year_old_female_clinic.pdf in Resources */,
+				15D8A30815108AE600BC90A1 /* Sickle_cell_disease_26_year_old_male_clinic.pdf in Resources */,
+				15D8A30915108AE600BC90A1 /* Sinusitis_33_year_old_male_clinic.pdf in Resources */,
+				15D8A30A15108AE600BC90A1 /* Sore_throat_20_year_old_male_clinic.pdf in Resources */,
+				15D8A30B15108AE600BC90A1 /* Standardized_patient_Check_lists.pdf in Resources */,
+				15D8A30C15108AE600BC90A1 /* Sudden_vision_loss_65_year_old_male_clinic.pdf in Resources */,
+				15D8A30D15108AE600BC90A1 /* Vaginal_discharge_34_year_old_female_clinic.pdf in Resources */,
+				15D8A30E15108AE600BC90A1 /* Vomiting_2_month_old__child_clinic.pdf in Resources */,
+				15D8A30F15108AE600BC90A1 /* Weight_gain_45_year_old_male_clinic.pdf in Resources */,
+				15D8A31015108AE600BC90A1 /* Weight_loss_46_year_old_female_clinic.pdf in Resources */,
+				15D8A31115108AE600BC90A1 /* Wrist_pain_34_year_old_female_clinic.pdf in Resources */,
+				15D8A31315108B1F00BC90A1 /* COMMON_tips.png in Resources */,
+				15D8A31515108B2500BC90A1 /* shelves2.jpg in Resources */,
+				15D8A31715108B7B00BC90A1 /* Back.png in Resources */,
+				15D8A31915108B8A00BC90A1 /* Erectile_dysfunction_62_year_old_male_clinic_comlex.pdf in Resources */,
+				15D8A3221510944B00BC90A1 /* icon.icns in Resources */,
+				15E943341526EC410060CFD2 /* Sore_throat.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		15E93BD9151082500066A48C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				15E93BEE151082500066A48C /* main.m in Sources */,
+				15E93BF5151082500066A48C /* AppDelegate.m in Sources */,
+				15E93BFB151082500066A48C /* COMLEX_LEVEL_2_PE.xcdatamodeld in Sources */,
+				15E93C18151082CF0066A48C /* FirstWindowController.m in Sources */,
+				15E93C1A151082CF0066A48C /* IAPforCases.m in Sources */,
+				15E93C1C151082CF0066A48C /* Reachability.m in Sources */,
+				15E93C1D151082CF0066A48C /* SampleWindowController.m in Sources */,
+				15E93C20151082CF0066A48C /* WelcomeWindow.m in Sources */,
+				15E93C391510840B0066A48C /* DetailWindow.m in Sources */,
+				15E93C3B1510840B0066A48C /* FeedbackWindow.m in Sources */,
+				15E93C3D1510840B0066A48C /* MainWindow.m in Sources */,
+				15D8A3201510926100BC90A1 /* validatereceipt.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		15E93BEA151082500066A48C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				15E93BEB151082500066A48C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		15E93BF0151082500066A48C /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				15E93BF1151082500066A48C /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		15E93BF6151082500066A48C /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				15E93BF7151082500066A48C /* en */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		15E93BFC151082500066A48C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		15E93BFD151082500066A48C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		15E93BFF151082500066A48C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = NO;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CODE_SIGN_IDENTITY = "";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "COMLEX LEVEL 2 PE/COMLEX LEVEL 2 PE-Prefix.pch";
+				INFOPLIST_FILE = "COMLEX LEVEL 2 PE/COMLEX LEVEL 2 PE-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = "OEPL.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = "COMLEX LEVEL 2 PE";
+			};
+			name = Debug;
+		};
+		15E93C00151082500066A48C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = NO;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CODE_SIGN_IDENTITY = "";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "COMLEX LEVEL 2 PE/COMLEX LEVEL 2 PE-Prefix.pch";
+				INFOPLIST_FILE = "COMLEX LEVEL 2 PE/COMLEX LEVEL 2 PE-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = "OEPL.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = "COMLEX LEVEL 2 PE";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		15E93BD7151082500066A48C /* Build configuration list for PBXProject "COMLEX LEVEL 2 PE" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				15E93BFC151082500066A48C /* Debug */,
+				15E93BFD151082500066A48C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		15E93BFE151082500066A48C /* Build configuration list for PBXNativeTarget "COMLEX LEVEL 2 PE" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				15E93BFF151082500066A48C /* Debug */,
+				15E93C00151082500066A48C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		15E93BF9151082500066A48C /* COMLEX_LEVEL_2_PE.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				15E93BFA151082500066A48C /* COMLEX_LEVEL_2_PE.xcdatamodel */,
+			);
+			currentVersion = 15E93BFA151082500066A48C /* COMLEX_LEVEL_2_PE.xcdatamodel */;
+			path = COMLEX_LEVEL_2_PE.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 15E93BD4151082500066A48C /* Project object */;
+}
